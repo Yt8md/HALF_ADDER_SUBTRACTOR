@@ -81,17 +81,22 @@ endmodule
 
 **RTL Schematic**
 
+
+**HALF_ADDER**
 ![image](https://github.com/user-attachments/assets/c5b647ac-88db-4059-9aa7-0188f837c7ac)
 <br>
+
+**HALF_SUBRACTER**
 ![image](https://github.com/user-attachments/assets/12403552-0628-43f3-963e-198fc18af87e)
-
-
 
 
 **Output/TIMING Waveform**
 
+**HALF_ADDER**
 ![image](https://github.com/user-attachments/assets/4b3afb4f-96f5-474c-8361-2a907c2c3366)
 <br>
+
+**HALF_SUBRACTER**
 ![image](https://github.com/user-attachments/assets/2a1b174e-9f28-4324-88bf-5b13feb42fe7)
 
 
