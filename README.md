@@ -48,6 +48,18 @@ Figure -02 HALF Subtractor
 5.	For different input combinations generate the timing diagram.
 
 
+**RTL Schematic**
+
+
+**HALF_ADDER**
+![image](https://github.com/user-attachments/assets/c5b647ac-88db-4059-9aa7-0188f837c7ac)
+<br>
+
+**HALF_SUBRACTER**
+![image](https://github.com/user-attachments/assets/12403552-0628-43f3-963e-198fc18af87e)
+
+
+
 **Program:**
 
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
@@ -76,19 +88,6 @@ assign bo = ~a & b;
 endmodule
 
 ```
-
-
-
-**RTL Schematic**
-
-
-**HALF_ADDER**
-![image](https://github.com/user-attachments/assets/c5b647ac-88db-4059-9aa7-0188f837c7ac)
-<br>
-
-**HALF_SUBRACTER**
-![image](https://github.com/user-attachments/assets/12403552-0628-43f3-963e-198fc18af87e)
-
 
 **Output/TIMING Waveform**
 
